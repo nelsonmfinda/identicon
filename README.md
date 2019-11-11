@@ -14,7 +14,7 @@ yarn install
 yarn serve
 ```
 
-And see project running via [http://localhost:8080](localhost)
+And see project running via [http://localhost:8080](http://localhost:8080)
 
 ### Compiles and minifies for production
 
