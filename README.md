@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/24f3fd16-f263-479e-8789-b6a478bfba84/deploy-status)](https://app.netlify.com/sites/identicon/deploys)
+
 # My Identicon Generator
 
 A simple identicon generator project to learn and practice tests in Vue
